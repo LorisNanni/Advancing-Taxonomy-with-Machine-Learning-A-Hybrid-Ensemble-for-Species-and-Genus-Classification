@@ -2,6 +2,14 @@
 Advancing Taxonomy with Machine Learning: A Hybrid Ensemble for Species and Genus Classification
 
 For SVM we have used: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+For training SVM the features were linearly normalized between 0 and 1, 
+using only the training data for finding the parameters to normalize the data.
+
+Before the fusion between SVM and CNN, the scores of each approach are normalized to mean 0 
+and standard deviation 1. You can extract a validation set from the training set, and then use it 
+to find the parameters needed for the normalization approach. 
+
+
 
 The classificaton step is performed in MATLAB; the feature extraction step is performed in Python.
 Matlab code is saved in Matlab.rar
