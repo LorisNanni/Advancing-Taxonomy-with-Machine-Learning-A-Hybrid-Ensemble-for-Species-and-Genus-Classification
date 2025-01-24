@@ -8,5 +8,6 @@ Matlab code is saved in Matlab.rar
 Python code is saved in Python.rar
 
 Dataset:
+Badirli dataset is available here https://dataworks.indianapolis.iu.edu/handle/11243/41
 The two new datasets here proposed, detailed in subsections 2.1 and 2.2, are available at: https://zenodo.org/records/14277812
-the Beetle and the Fish datasets are available at: https://zenodo.org/records/14728702
+The Beetle and the Fish datasets are available at: https://zenodo.org/records/14728702
