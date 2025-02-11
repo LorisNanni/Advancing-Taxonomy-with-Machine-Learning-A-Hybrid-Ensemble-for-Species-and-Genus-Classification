@@ -9,7 +9,8 @@ Before the fusion between SVM and CNN, the scores of each approach are normalize
 and standard deviation 1. You can extract a validation set from the training set, and then use it 
 to find the parameters needed for the normalization approach. 
 
-
+The approach eDNA is here available:
+https://github.com/LorisNanni/AI-powered-Biodiversity-Assessment-Species-Classification-via-DNA-Barcoding-and-Deep-Learning
 
 The classificaton step is performed in MATLAB; the feature extraction step is performed in Python.
 Matlab code is saved in Matlab.rar
