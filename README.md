@@ -13,7 +13,9 @@ The approach eDNA is here available:
 https://github.com/LorisNanni/AI-powered-Biodiversity-Assessment-Species-Classification-via-DNA-Barcoding-and-Deep-Learning
 
 The classificaton step is performed in MATLAB; the feature extraction step is performed in Python.
+
 Matlab code is saved in Matlab.rar; the file ExampleFish_DWT.m  shows how to apply DWT for training/testing CNN
+
 Python code is saved in Python.rar
 
 
