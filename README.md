@@ -16,7 +16,7 @@ The classificaton step is performed in MATLAB; the feature extraction step is pe
 
 Matlab code is saved in Matlab.rar; the file ExampleFish_DWT.m  shows how to apply DWT for training/testing CNN
 
-Python code is saved in Python.rar
+Python code is folder python. Follow the README.md for complete instructions.
 
 
 
