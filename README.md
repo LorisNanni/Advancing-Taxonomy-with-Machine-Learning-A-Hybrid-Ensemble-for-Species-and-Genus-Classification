@@ -1,6 +1,9 @@
 # Advancing-Taxonomy-with-Machine-Learning-A-Hybrid-Ensemble-for-Species-and-Genus-Classification
 Advancing Taxonomy with Machine Learning: A Hybrid Ensemble for Species and Genus Classification
 
+Also attached is the pdf of the paper. In the official version in the journal, 
+there are typos of the name of methods in Tables 5-6. The corrected version is uploaded here. 
+
 For SVM we have used: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 For training SVM the features were linearly normalized between 0 and 1, 
 using only the training data for finding the parameters to normalize the data.
